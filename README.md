@@ -50,3 +50,4 @@ This project demonstrates how to use hardhat or foundry to deploy a contract in 
 
 Join our Discord: https://scroll.io/
 # scroll-demo
+# scroll-demo
