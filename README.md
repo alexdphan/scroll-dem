@@ -45,9 +45,3 @@ This project demonstrates how to use hardhat or foundry to deploy a contract in 
   ```
   forge create --rpc-url https://prealpha-rpc.scroll.io/l2 --value 0.00000000002ether --constructor-args 1696118400 --private-key 0xabc123abc123abc123abc123abc123abc123abc123abc123abc123abc123abc1 --legacy contracts/Lock.sol:Lock
   ```
-  
-## Support
-
-Join our Discord: https://scroll.io/
-# scroll-demo
-# scroll-demo
